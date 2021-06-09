@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Research>
+	<Customer CompanyName="CName">
+		<ResearchTopic>Topic</ResearchTopic>
+		<Cost>99999</Cost>
+	</Customer>
+	<Date>09.06.2021</Date>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+	<Publication>
+		<Student FirstName="A" LastName="B">
+			<EnrollmentYear>2021</EnrollmentYear>
+		</Student>
+		<Type>InternationalConference</Type>
+	</Publication>
+</Research>
